@@ -1,4 +1,4 @@
-# Book-Recommendation-System
+ # Book-Recommendation-System
 ![Books](https://github.com/AyeshaTehreeem/Book-Recommender/blob/main/book.jpg)
 
 This Book Recommendation System processes data from 2.4 Lakh distinct books and recommends the top 50 books based on overall ratings and user feedback, as well as 5 similar books based on the user's selected input. The system utilizes Flask for the frontend interface and a collaborative filtering algorithm for the backend recommendation engine.
@@ -7,12 +7,12 @@ This Book Recommendation System processes data from 2.4 Lakh distinct books and 
 
 - __Top 50 recommendations__:
 
--Provides the top 50 books, each with over 250 ratings.
+- Provides the top 50 books, each with over 250 ratings.
 
 - __Similar Book Recommender__:
 
--Recommends 5 books similar to the one selected by the user.
-Uses collaborative filtering techniques to find books that share similar characteristics or have been enjoyed by similar users.
+- Recommends 5 books similar to the one selected by the user.
+- Uses collaborative filtering techniques to find books that share similar characteristics or have been enjoyed by similar users.
 
 # Dataset Used
 
