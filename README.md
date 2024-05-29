@@ -5,11 +5,11 @@ This Book Recommendation System processes data from 2.4 Lakh distinct books and 
 
 # Features
 
-- __Top 50 recommendations__:
+ __Top 50 recommendations__:
 
 - Provides the top 50 books, each with over 250 ratings.
 
-- __Similar Book Recommender__:
+__Similar Book Recommender__:
 
 - Recommends 5 books similar to the one selected by the user.
 - Uses collaborative filtering techniques to find books that share similar characteristics or have been enjoyed by similar users.
@@ -20,7 +20,12 @@ This Book Recommendation System processes data from 2.4 Lakh distinct books and 
 
 The Dataset has 3 different files
 - Users.csv
+  
+(1) User-ID - Unique user id
+(2) Location - location of the user
+(3) Age - User Age
 - Books.csv
+  
 (1) ISBN - Book ISBN
 (2) Book-Title - Book Title
 (3) Book-Author - Book Author
@@ -31,4 +36,6 @@ The Dataset has 3 different files
 (8) Image-URL-L - large image size of the book, amazon link
 
 - Ratings.csv
-
+(1) User-ID - Unique user id
+(2) ISBN - Book ISBN
+(3) Book-Rating rating
