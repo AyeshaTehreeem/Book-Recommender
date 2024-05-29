@@ -1,5 +1,5 @@
 # Book-Recommender-System
-![Books]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40xaradxarma%2Fbook-recommendation-system-8cdb77585b65&psig=AOvVaw0vhjuxcX85x6p_ric9isc2&ust=1717064970334000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjcyNrTsoYDFQAAAAAdAAAAABAE))
+![Books](https://github.com/AyeshaTehreeem/Book-Recommender/blob/main/book.jpg)
 
 This is a recommendation system that goes into 2.4 Lakh distinct books and recommends Top 50 books and also recommends 5 similar books based on the input given by user. Used Falsk for Frontend and collaborative recommender at the backend
 
