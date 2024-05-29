@@ -19,11 +19,13 @@ __Similar Book Recommender__:
 [Dataset from Kaggle ](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?select=Books.csv)
 
 The Dataset has 3 different files
+
 - Users.csv
   
 (1) User-ID - Unique user id
 (2) Location - location of the user
 (3) Age - User Age
+
 - Books.csv
   
 (1) ISBN - Book ISBN
@@ -36,6 +38,7 @@ The Dataset has 3 different files
 (8) Image-URL-L - large image size of the book, amazon link
 
 - Ratings.csv
+  
 (1) User-ID - Unique user id
 (2) ISBN - Book ISBN
 (3) Book-Rating rating
